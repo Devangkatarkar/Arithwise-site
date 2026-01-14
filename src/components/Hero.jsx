@@ -202,8 +202,8 @@ const Hero = () => {
           preload="auto"
         >
           {/* IMPORTANT: Replace this with your actual video path */}
-          <source src="/public/AW-Video-final.mp4" type="video/mp4" />
-          <source src="../public/AW-Video-final.webm" type="video/webm" />
+          <source src="/AW-Video-final.mp4" type="video/mp4" />
+          <source src="/AW-Video-final.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
         
