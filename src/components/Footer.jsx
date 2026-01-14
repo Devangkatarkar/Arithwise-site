@@ -16,7 +16,7 @@ const Footer = () => {
           className="mb-10"
         >
           <img 
-            src="../public/Logo.png" 
+            src="/Logo.png" 
             alt="Arithwise Logo" 
             className="h-16 w-auto mb-6 md:h-20" 
           />
