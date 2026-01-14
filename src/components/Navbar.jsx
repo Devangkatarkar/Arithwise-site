@@ -124,7 +124,7 @@ const Navbar = ({ onNavigate, activePage: externalActivePage }) => {
           >
             <div className="relative flex items-center">
               <motion.img 
-                src="../public/Logo.png" 
+                src="/Logo.png" 
                 alt="Arithwise Logo" 
                 className="h-10 w-auto md:h-12 lg:h-14"
                 animate={{
