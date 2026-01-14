@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+/* Optional: Add custom theme values directly here */
+@theme {
+  --color-arith-magenta: #FF00FF;
+  --color-arith-purple: #800080;
+  --color-arith-orange: #FFA500;
+  --color-arith-dark: #1A1A1A;
+  --color-arith-offwhite: #F5F5F5;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+/* Your custom styles below */
+body {
+  font-family: var(--font-sans);
+}
